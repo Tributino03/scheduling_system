@@ -2,6 +2,5 @@
 
 Desafio NX
 
-#### License
+#### Resolução do desafio proposto utilizando o framework Frappe.
 
-mit
